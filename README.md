@@ -1,2 +1,2 @@
 # hello-world
-Learning out Github's features
+Learning Github's features
